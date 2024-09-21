@@ -2,8 +2,8 @@ import { ThemedText } from '@/components/ThemedText';
 import { View, Text } from 'react-native';
 const PushApp = () => {
   return (
-    <View>
-      <ThemedText>Hola Mundo</ThemedText>
+    <View style={{ marginHorizontal: 10, marginTop: 5 }}>
+      <ThemedText>Token: </ThemedText>
     </View>
   );
 };

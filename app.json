@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "db14f707-9e04-48a0-8fcd-12dd4bf8ccdb"
+      }
+    },
+    "owner": "klerith"
   }
 }
