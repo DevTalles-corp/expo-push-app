@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886859824068",
+    "project_id": "expo-push-notifications-16e74",
+    "storage_bucket": "expo-push-notifications-16e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886859824068:android:0a53accc4e126a12dcc291",
+        "android_client_info": {
+          "package_name": "com.klerith.pushapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmqea3miR1FjNyJ-PUurayZpXaIVa6chY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -18,3 +18,7 @@ web-build/
 
 expo-env.d.ts
 # @end expo-cli
+
+
+Expo-Push-Notifications Firebase-Service-Account.json
+expo-push-notifications-firebase.json
