@@ -123,6 +123,8 @@ export const usePushNotifications = () => {
 
     notificationListener.current =
       Notifications.addNotificationReceivedListener((notification) => {
+        console.log({ notification });
+
         setNotifications((prevNotifications) => [
           notification,
           ...prevNotifications,
